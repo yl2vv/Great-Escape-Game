@@ -1,0 +1,1 @@
+A running game that is on a straight plane. The character has to dodge obstacles by jumping or crouching. 
